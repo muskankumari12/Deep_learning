@@ -1,0 +1,19 @@
+from Sandipan Basu to All Participants:
+http://yann.lecun.com/exdb/mnist/
+from Sandipan Basu to All Participants:
+MNIST = http://yann.lecun.com/exdb/mnist/
+
+
+
+https://community.simplilearn.com/threads/deep-learning-with-keras-and-tensorflow-sandipan-aug-01-aug-15.74767/
+
+
+
+tabelue :-  https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+
+Steps to follow:
+Step 1: Use a left join between orders and returns tables
+Step 2: Create a list of customer name
+Step 3: Apply a filter on Customer Name with the formula:
+    COUNTD([Order ID (Returns)]) >= COUNTD([Order ID])/2
+Step 4: Use orde
